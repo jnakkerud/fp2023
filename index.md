@@ -1,3 +1,4 @@
+{% include photos-page.html %}
 # Itinerary
 
 ### March 2nd
@@ -6,3 +7,5 @@
 
 ### March 3rd
 * Zurich Marriott
+
+{% include map-page.html %}
