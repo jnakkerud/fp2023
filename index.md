@@ -30,9 +30,13 @@
 ### April 1st - 4th
 * Vienna
 * TBD: Accommodations
-
 ### April 4th
 * @21:27 Night train: Vienna -> Zurich (NU466)
+
+### April 5th
+* Zurich
+* TBD: Accommodations
+
 ### April 6
 * Zurich -> SFO
 * @13:10 Swiss (LX 38)
