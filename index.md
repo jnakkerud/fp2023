@@ -16,7 +16,7 @@
 * @11:03 Train to Innsbruck (Eurocity 163)
 * TBD: Accommodations
 
-## March 12th - 25th
+### March 12th - 25th
 * TBD
 
 ### March 25 - April 1st
