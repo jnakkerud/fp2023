@@ -14,14 +14,28 @@
 
 ### March 11th
 * @11:03 Train to Innsbruck (Eurocity 163)
+* TBD: Accommodations
+
+## March 12th - 25th
+* TBD
 
 ### March 25 - April 1st
 * Start in Innsbruck
 * [Stubai Ski Tour](https://www.alpine-guides.com/trips/stubai-ski-tour/) with Alpen Guides
 * End in Innsbruck
 
+### April 1st
+* Train to Vienna
+
+### April 1st - 4th
+* Vienna
+* TBD: Accommodations
+
+### April 4th
+* @21:27 Night train: Vienna -> Zurich (NU466)
 ### April 6
 * Zurich -> SFO
+* @13:10 Swiss (LX 38)
 
 * * *
 
