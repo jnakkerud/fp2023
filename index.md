@@ -14,9 +14,13 @@
 
 ### March 11th
 * @11:03 Train to Innsbruck (Eurocity 163)
-* TBD: Accommodations
+* Marriott Innsbruck
 
-### March 12th - 25th
+### March 12th - 16th
+* Kitzbühel, Austria
+* [Aktiv Hotel Schweizerhof](https://www.hotel-schweizerhof.at/en/hotel-schweizerhof-kitzbuehel.html)
+
+### March 16th - 25th
 * TBD
 
 ### March 25 - April 1st
