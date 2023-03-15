@@ -20,13 +20,18 @@
 * Kitzbühel, Austria
 * [Aktiv Hotel Schweizerhof](https://www.hotel-schweizerhof.at/en/hotel-schweizerhof-kitzbuehel.html)
 
-### March 16th - 25th
-* TBD
+### March 16th - 18th
+* Oetz, Austria
+* [Gasthoh zum Stern](https://www.gasthof-zum-stern.at/ar)
+
+### March 18th - 25th
+* Solden, Austria
+* [Ubanhof](https://www.urbanhof.at/en/)
 
 ### March 25 - April 1st
-* Start in Innsbruck
+* Start in Innsbruck [Alphotel](https://www.alphotel.com/en/)
 * [Stubai Ski Tour](https://www.alpine-guides.com/trips/stubai-ski-tour/) with Alpen Guides
-* End in Innsbruck
+* End in Innsbruck [Alphotel](https://www.alphotel.com/en/)
 
 ### April 1st
 * Train to Vienna
