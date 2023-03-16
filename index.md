@@ -38,7 +38,7 @@
 
 ### April 1st - 4th
 * Vienna
-* TBD: Accommodations
+* [Mooons Hotel](https://www.mooons.com/en/)
 ### April 4th
 * @21:27 Night train: Vienna -> Zurich (NU466)
 
