@@ -28,13 +28,18 @@
 * Solden, Austria
 * [Ubanhof](https://www.urbanhof.at/en/)
 
-### March 25 - April 1st
+### March 25 - March 31
 * Start in Innsbruck [Alphotel](https://www.alphotel.com/en/)
 * [Stubai Ski Tour](https://www.alpine-guides.com/trips/stubai-ski-tour/) with Alpen Guides
-* End in Innsbruck [Alphotel](https://www.alphotel.com/en/)
+* End in Innsbruck
+
+### March 31
+* Train Innsbruck -> Salzburg
+* Salzburg
+* [Austria Trend Europa Salzburg](https://www.austria-trend.at/de/hotels/europa-salzburg)
 
 ### April 1st
-* Train to Vienna
+* Train Salzburg -> Vienna
 
 ### April 1st - 4th
 * Vienna
@@ -44,7 +49,7 @@
 
 ### April 5th
 * Zurich
-* TBD: Accommodations
+* [Best Western Plus Hotel Zürcherhof](https://www.bestwestern.ch/en/hotels/Zuerich/Best-Western-Plus-Hotel-Zuercherhof)
 
 ### April 6
 * Zurich -> SFO
